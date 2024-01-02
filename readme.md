@@ -36,7 +36,7 @@ App#01 publishes a notification message to Notification server
 and finds the sockets with "App#01" device id and sends the message to the device
 5)device will then display the notification
 
-![Alt text](https://drive.google.com/uc?id=1Hmq8AUYyu8k8LvuLtXr027NLbT3yOrdJ "architecture overview")
+![Alt text](https://drive.google.com/uc?id=1NThBbeNRKgWzdLhjSCoreczALl_jHDeO "design overview")
 
 ## Requirements
 
